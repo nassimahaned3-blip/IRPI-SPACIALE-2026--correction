@@ -1,8 +1,8 @@
-# 🛰️ Progiciel Expert : GeoIRPI v6.1
-## Direction de l'Environnement — Wilaya de Tizi Ouzou
-### Modélisation Géo-Relationnelle Spatiale de l'Indice IRPI 
+#  GeoIRPI v6.1
+##   Wilaya de Tizi Ouzou
+### Modélisation Géo Spatiale de l'Indice IRPI 
 
-Ce dépôt présente le cadre algorithmique et la structure de données du modèle d'évaluation de la sécurité industrielle déconcentrée à l'échelle de la commune de Larbaâ Nath Irathen [Local].
+Ce dépôt présente le cadre algorithmique et la structure de données du modèle d'évaluation de la sécurité industrielle déconcentrée à l'échelle.
 
 ---
 
